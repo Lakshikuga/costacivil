@@ -1,6 +1,6 @@
 # costacivil
 
-A new Flutter project.
+An Earthmoving mobile application developed in Flutter.
 
 ## Getting Started
 
